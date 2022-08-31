@@ -11,7 +11,6 @@ Deepika Gooty
 
 
 OBJECTIVES
-
 To observe and analyze the pattern in traffic and any incidents that occur and also find the correlation between various traffic conditions based on speed of the vehicles, number of vehicles, average speed of vehicles on a highway, etc for a period of 5 years in Portland.
 
 Check if most incidents occur on weekends or weekdays and specific time ranges when it's most likely to happen.
