@@ -11,6 +11,7 @@ Deepika Gooty
 
 
 OBJECTIVES
+
 To observe and analyze the pattern in traffic and any incidents that occur and also find the correlation between various traffic conditions based on speed of the vehicles, number of vehicles, average speed of vehicles on a highway, etc for a period of 5 years in Portland.
 
 Check if most incidents occur on weekends or weekdays and specific time ranges when it's most likely to happen.
@@ -29,16 +30,22 @@ In this project we are working in a team of three. We are going to work together
 Breakdown of the work:
 
 Pooja Nalan - Congestion data analysis
+
 Akansha Jain - Incident data mapping and analysis
+
 Deepika Gooty - Visual representation of data and pattern recognition.
 
 
 PROJECT MILESTONES
 
 Traffic data collection and creation of tables.
+
 Mapping incidents on highways to the generated heatmap.
+
 Generate heat maps and plot incidents for 5 years on a selective few highways.
+
 Come up with a methodology to generate heat maps and plot incidents for any given highway across any time period.
+
 Analyse the graphs and the important patterns/observations and the correlation between various factors that lead to congestion and incidents.
 
  
