@@ -33,13 +33,17 @@ The project makes use of average speed as an input to analyze and define congest
 
 # **HeatMaps**
 **1. On highway I-205 Compare the incidents occured on satuday vs sunday**
+
 ![](Screenshots/I-205%20NB%20Saturday%20vs%20Sunday.png)
 
 **2. Total incidents counts based on the direction**
+
 ![](Screenshots/Incident%20count%20Direction.png)
 
 **3.Incident occured relationship with traffic congestion**
+
 ![](Screenshots/Incident-milepost.png)
 
 **4. No of lanes affected on each day on highway I-205**
+
 ![](Screenshots/Max%20Lanes%20Affected.png)
