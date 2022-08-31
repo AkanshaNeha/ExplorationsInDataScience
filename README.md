@@ -2,7 +2,7 @@
 
 HeatMaps : https://public.tableau.com/app/profile/akansha5101/viz/IncidentAnalysis_16287139850440/Story1#1
 
-**TEAM  - Trafficky**
+# **TEAM - Trafficky**
 
 Team Members:
 Pooja Nalan, 
@@ -36,6 +36,3 @@ In this project we are working in a team of three. We are going to work together
 4. Come up with a methodology to generate heat maps and plot incidents for any given highway across any time period.
 
 5. Analyse the graphs and the important patterns/observations and the correlation between various factors that lead to congestion and incidents.
-
- 
- 
