@@ -19,12 +19,6 @@ We pick two highways that have heavy usage and for which we find close to real d
 
 The project makes use of average speed as an input to analyze and define congestion at different stations on the highway. Based on calculating the congestion we plot a heat map representing time and the station milestone. This way we can find how the traffic varies with time at all the stations on that highway. Using that heat map we plot the incidents that occurred. We then analyse the relation between incidents and speed. 
 
-
-# **TEAM STRUCTURE**
-
-In this project we are working in a team of three. We are going to work together at every step to achieve better results. We divided the work and we all three are going to work on that specific part of the project.
-
-
 # **PROJECT MILESTONES**
 
 1. Traffic data collection and creation of tables.
@@ -36,3 +30,16 @@ In this project we are working in a team of three. We are going to work together
 4. Come up with a methodology to generate heat maps and plot incidents for any given highway across any time period.
 
 5. Analyse the graphs and the important patterns/observations and the correlation between various factors that lead to congestion and incidents.
+
+# **HeatMaps**
+1. 
+![](Screenshots/I-205%20NB%20Saturday%20vs%20Sunday.png)
+
+2.
+![](Screenshots/Incident%20count%20Direction.png)
+
+3.
+![](Screenshots/Incident-milepost.png)
+
+4.
+![](Screenshots/Max%20Lanes%20Affected.png)
